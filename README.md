@@ -11,8 +11,13 @@ OpenWeatherMap API: to fetch weather data
 The main functionality includes:
 
 1.Displaying current weather conditions for a location entered by the user.
+
+
 2.Displaying a image that corresponds to the weather conditions at the location.
+
 The app is easy to use and requires an internet connection to fetch data from the API.
 
 Note: To run the app, you will need to obtain an API key from OpenWeatherMap and replace the API_KEY variable in the main.js file with your own API key.
+
+
 That's it! Enjoy using the Weather Web App to stay updated on the latest weather conditions in any location worldwide.
