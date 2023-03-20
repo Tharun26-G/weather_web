@@ -4,13 +4,13 @@ This Weather Web App allows users to get real-time weather information for any l
 
 The web-app uses the following technologies:
 
-⚫HTML5: for the structure of the page
+⚪ HTML5: for the structure of the page
 
-⚫CSS: for styling the page
+⚪ CSS: for styling the page
 
-⚫JavaScript: for the interactivity and to fetch data from the API
+⚪ JavaScript: for the interactivity and to fetch data from the API
 
-⚫OpenWeatherMap API: to fetch weather data
+⚪ OpenWeatherMap API: to fetch weather data
 
 The main functionality includes:
 
